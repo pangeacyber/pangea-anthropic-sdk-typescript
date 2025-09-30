@@ -1,6 +1,6 @@
 {
   "name": "@pangeacyber/anthropic",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A wrapper around the Anthropic TypeScript library that wraps the Messages API with Pangea AI Guard.",
   "publishConfig": {
     "access": "public"
