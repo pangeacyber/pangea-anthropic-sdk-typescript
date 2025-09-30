@@ -50,7 +50,7 @@
     "@biomejs/biome": "2.2.4",
     "@kenan/biome-config": "1.0.4",
     "@tsconfig/node22": "22.0.2",
-    "@types/node": "22.18.0",
+    "@types/node": "22.18.6",
     "lefthook": "1.13.6",
     "publint": "0.3.13",
     "tsdown": "0.15.6",
