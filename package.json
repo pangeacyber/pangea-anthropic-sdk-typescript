@@ -53,7 +53,7 @@
     "@types/node": "22.19.1",
     "lefthook": "2.0.11",
     "publint": "0.3.15",
-    "tsdown": "0.17.0",
+    "tsdown": "0.18.0",
     "typescript": "5.9.3"
   }
 }
